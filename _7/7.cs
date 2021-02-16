@@ -82,7 +82,9 @@ namespace _7
 
         public double AverageTemperatureDay
         {
-            get => averageTemperatureDay;
+            get{
+               return averageTemperatureDay;
+            }
             private set => averageTemperatureDay = value;
         }
 
