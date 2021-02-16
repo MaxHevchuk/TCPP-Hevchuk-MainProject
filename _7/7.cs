@@ -80,12 +80,6 @@ namespace _7
 
         private TypeOfWeather typeOfWeather;
 
-        public double AverageTemperatureDay
-        {
-            get => averageTemperatureDay;
-            private set => averageTemperatureDay = value;
-        }
-
         public double AverageTemperatureNight
         {
             get => averageTemperatureNight;
