@@ -1,0 +1,13 @@
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.exe
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.deps.json
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.runtimeconfig.json
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.runtimeconfig.dev.json
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.dll
+C:\Users\maxhe\RiderProjects\OOP-1\_7\bin\Debug\netcoreapp3.1\_7.pdb
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.csprojAssemblyReference.cache
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.AssemblyInfoInputs.cache
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.AssemblyInfo.cs
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.csproj.CoreCompileInputs.cache
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.dll
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.pdb
+C:\Users\maxhe\RiderProjects\OOP-1\_7\obj\Debug\netcoreapp3.1\_7.genruntimeconfig.cache
