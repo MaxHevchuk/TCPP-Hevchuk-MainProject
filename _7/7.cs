@@ -2,6 +2,12 @@
 using System.IO;
 using System.Linq;
 
+/*
+   Коментар
+   коментар2
+   коментар3
+*/
+
 namespace _7
 {
     static class Variables
